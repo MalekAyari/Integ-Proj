@@ -50,3 +50,8 @@
 .Logo>div{
     padding: 0 12px;
 }
+.view{
+    font-size: 1.5rem;
+    color: black;
+    flex-wrap: wrap;
+}
