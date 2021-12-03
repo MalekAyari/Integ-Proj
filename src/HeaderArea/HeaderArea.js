@@ -1,5 +1,4 @@
 import React from 'react'
-import App from '../App'
 import './HeaderArea.css'
 import {MdVideoCall, MdSearch, MdViewComfy} from 'react-icons/md'
 import {FaYoutube} from 'react-icons/fa'

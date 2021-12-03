@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import HeaderArea from './HeaderArea/HeaderArea';
 import './App.css';
 import MainArea from './MainArea/MainArea'

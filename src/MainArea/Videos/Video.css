@@ -1,0 +1,18 @@
+.Video{
+    justify-content: space-around;
+    height: 274px;
+    left: 0;
+    width: 250px;
+    margin: 8px;
+}
+.Logo{
+    display: flex;
+}
+.Logo>div{
+    padding: 0 12px;
+}
+.view{
+    font-size: 1.5rem;
+    color: black;
+    flex-wrap: wrap;
+}
